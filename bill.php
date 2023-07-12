@@ -1,5 +1,5 @@
 <?php 
 echo "bill";
 
-echo "update bill";
+echo "update bill...";
 ?>
